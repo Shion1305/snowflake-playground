@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   yukidaruma:
-    specifier: ^0.0.1
+    specifier: 0.0.1
     version: 0.0.1
 
 devDependencies:
